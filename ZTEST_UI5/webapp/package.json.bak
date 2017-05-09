@@ -1,0 +1,13 @@
+{
+  "name": "ZTEST_UI5",
+  "version": "1.0.1",
+  "description": "Notification Search App",
+  "main": "index.html",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-htmlhint": "^0.9.13",
+    "grunt-openui5": "^0.11.0",
+    "grunt-xml-validator": "^1.1.3"
+  }
+}
